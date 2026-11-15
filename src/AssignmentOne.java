@@ -14,7 +14,7 @@ import java.util.List;
  *     <li>Name: Max</li>
  *     <li>SCU account: 25259298</li>
  *     <li>GitHub repository link: https://github.com/Max-25259298/A1-25259298</li>
- *     <li>Demonstration video link (SCU OneDrive share): &lt;paste video link here&gt;</li>
+ *     <li>Demonstration video link (SCU OneDrive share): https://scuonline-my.sharepoint.com/:v:/g/personal/c_wang_52_student_scu_edu_au/IQBcwYP6oUZdSJV1uBco-D-2AcbtSqrL2-T_J_15mp-bEp8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LhJMGY</li>
  * </ul>
  *
  * <p>GenAI declaration: I acknowledge that I have used Generative AI tools
